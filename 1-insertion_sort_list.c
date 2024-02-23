@@ -3,8 +3,8 @@
 /**
  * swaping - ======
  * @head: =======
- * @first: ========== 
- * @second: ========= 
+ * @first: ==========
+ * @second: =========
  */
 
 void swaping(listint_t **head, listint_t **first, listint_t *second)
