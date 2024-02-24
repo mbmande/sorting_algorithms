@@ -9,11 +9,11 @@
 
 void swaping(int *m, int *n)
 {
-        int t;
+	int t;
 
-        t = *m;
-        *m = *n;
-        *n = t;
+	t = *m;
+	*m = *n;
+	*n = t;
 }
 
 /**
